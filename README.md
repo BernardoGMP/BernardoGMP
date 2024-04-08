@@ -1,14 +1,15 @@
 ### Hi there 👋
 
 #### About me 😄
+- I am a Data Scientist in training passionate about learning and creating clean codes that communicate ideas efficiently.
 
-
-#### What do I bring to the table 💡
+#### What I bring to the table 💡
 - Data Modeling and Machine Learning (Python: statsmodels, sklearn)
-- Data Analysis and Visualization (Excel and Power BI)
-- Querying databases using SQL and AWS
-- Mapping and optimizing processes
-- Customer relationship and sales
+- Data Analysis (Excel and Power BI)
+- Querying databases using SQL
+- Familiarity with AWS
+- Passion for mapping and optimizing processes
+- Experience in CX and Sales
 - International experience
 
 <!--
