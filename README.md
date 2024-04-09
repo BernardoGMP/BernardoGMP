@@ -1,5 +1,5 @@
 ## About me 🎓😊💼
-- I'm a Data Scientist student at EBAC ready for my first job opportunity!
+- I'm a Data Scientist trained at EBAC ready for my first job opportunity!
 - I'm passionate about learning and creating clean codes that communicate ideas efficiently.
 
 ## What I bring to the table 💡📊📈
