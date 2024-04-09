@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome to my GitHub! 👋
 
 ## About me 🎓😊💼
 - I'm a Data Scientist student at EBAC ready for my first job opportunity!
@@ -17,6 +17,9 @@
 
 ### Languages I "speak" 🗣️⚙️💻
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
+#### Packages 📦
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
