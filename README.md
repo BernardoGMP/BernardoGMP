@@ -13,9 +13,9 @@
 - Experience in CX and Sales
 - International experience
 
-## Here are a few of my favourite tools 🧰🛠️🧮
+## These are a few of my favourite tools 🧰🛠️🧮
 
-### Languages I "speak" 🗣️⚙️💻
+#### Languages I "speak" ⚙️
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
@@ -47,7 +47,7 @@
 ![](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff)
 
 #### Reach me on 🤝
-![(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-gm-pinheiro/?locale=en_US)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-gm-pinheiro/?locale=en_US)
 
 
 <!--
