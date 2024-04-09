@@ -13,7 +13,11 @@
 - Experience in CX and Sales
 - International experience
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BernardoGMP&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+#### There are a few of my favourite tools 🧰💻🧮
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
+![image]({[BadgeURLHere](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)})
 
 
 <!--
