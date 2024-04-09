@@ -17,7 +17,7 @@
 ![image]({BadgeURLHere})
 ![image]({BadgeURLHere})
 ![image]({BadgeURLHere})
-![]({(https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)})
+![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
 <!--
